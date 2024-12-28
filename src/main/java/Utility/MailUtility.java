@@ -17,8 +17,8 @@ public class MailUtility {
     // SMTP server details (use your email service provider's details)
     private static final String SMTP_HOST = "smtp.gmail.com";  // Example: Gmail SMTP
     private static final String SMTP_PORT = "587";  // Use 465 for SSL or 587 for TLS
-    private static final String SMTP_USER = "komalsworkshop@gmail.com";
-    private static final String SMTP_PASSWORD = "vbpsnahpwcmssqwl";
+    private static final String SMTP_USER = "sender_email@gmail.com"; // provide the sender's gmail contact
+    private static final String SMTP_PASSWORD = "gmailapppassword"; // provide the app password generated on Google account for the given sender email
 
     public void sendMail(String toEmail, String subject, String messageContent) {
 
