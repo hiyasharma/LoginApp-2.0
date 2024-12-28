@@ -1,0 +1,11 @@
+com\mycompany\loginapp\JakartaRestConfiguration.class
+Entity\RegistrationBean.class
+Utility\MailUtility.class
+DataAccess\UserDAO.class
+com\mycompany\loginapp\resources\JakartaEE11Resource.class
+Servlets\activateRegistrationServlet.class
+DataAccess\RegistrationDAO.class
+Entity\UserBean.class
+Servlets\loginServlet.class
+Servlets\registrationServlet.class
+Utility\MailUtility$1.class

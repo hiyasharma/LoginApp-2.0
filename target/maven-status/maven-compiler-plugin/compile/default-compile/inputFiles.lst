@@ -1,0 +1,10 @@
+D:\DevSpace\DevJava\LoginApp\src\main\java\com\mycompany\loginapp\JakartaRestConfiguration.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\com\mycompany\loginapp\resources\JakartaEE11Resource.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\DataAccess\RegistrationDAO.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\DataAccess\UserDAO.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\Entity\RegistrationBean.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\Entity\UserBean.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\Servlets\activateRegistrationServlet.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\Servlets\loginServlet.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\Servlets\registrationServlet.java
+D:\DevSpace\DevJava\LoginApp\src\main\java\Utility\MailUtility.java
